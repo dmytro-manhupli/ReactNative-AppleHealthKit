@@ -2,8 +2,6 @@
 
 A React Native package to interact with Apple HealthKit for iOS.
 
-This package allows access to health & fitness data exposed by Apple Healthkit. You can see the methods available [here](https://github.com/agencyenterprise/react-native-health#documentation).
-
 If you are looking for a more robust solution providing normalized data, insights and recommendations based on user's biometric data, data from multiple sources (Fitbit, Oura), or a hosted solution, please check out the [Point SDK](https://www.areyouonpoint.co/) developed by our frens.
 
 # New Version
@@ -315,14 +313,6 @@ initialized again.
 6. Enable Healthkit in your application's `Capabilities`
    ![](https://i.imgur.com/Ql1kXCg.png 'Xcode Capabilities Section')
 7. Compile and run
-
-## Contributing
-
-We appreciate any requests and contributions to `react-native-health`.
-The [issues](https://github.com/agencyenterprise/react-native-health/issues) tracker
-is used to keep a list of features and bugs to be worked on. Please see our
-[contributing documentation](https://github.com/agencyenterprise/react-native-health/blob/master/CONTRIBUTING.md)
-for some tips on getting started.
 
 ## References
 
